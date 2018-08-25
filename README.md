@@ -1,2 +1,2 @@
-## CSGO-Stop-Damage-at-RoundEnd
-# Stopes all damages when roundend!!
+# CSGO-Stop-Damage-at-RoundEnd
+## Stopes all damages when roundend!!
